@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tummalapati-pk
+- 👋 Hi, I’m @Praveen Kumar T
 - 👀 I’m interested in Learning New technologies & tools that aids DataScience
 - 🌱 I’m currently learning Python for Datascience
 - 💞️ I’m looking to collaborate on MS SQL Server, MS PowerBI, SSRS
